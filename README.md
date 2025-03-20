@@ -2,6 +2,8 @@
 
 Geometry Arrow has quickly become a favorite among gamers who enjoy skill-based challenges and minimalist design. Inspired by the renowned Geometry Dash, this game invites players to test their reflexes, timing, and precision through a series of increasingly challenging levels. If you’re ready to put your reaction time to the ultimate test, visit [Geometry Arrow](https://geometry-arrow.org) and dive into the action online!
 
+![Geometry Arrow Game](https://github.com/geometry-arrow/Geometry-Arrow/blob/main/geometry-arrow.jpg?raw=true)
+
 ## About Geometry Arrow
 
 Geometry Arrow is an exciting, free-to-play online game that combines simplicity with a high level of difficulty. At its core, the game is a reaction-based platformer that challenges players to navigate an arrow through a series of obstacles in a cave-like environment. The minimalist graphics—dominated by geometric shapes and retro aesthetics—offer a refreshing visual experience that harkens back to classic flash games.
